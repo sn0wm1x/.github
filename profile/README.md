@@ -1,6 +1,6 @@
 # Project SN0WM1X
 
-Welcome, this organization mainly contains projects related to OS and Nix.
+Welcome, this organization mainly contains repository related to OS and Nix.
 
 You can also check out [my contributions at Nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Akwaa).
 
